@@ -1,1 +1,1 @@
-printf("gudmrng");
+printf("gudmrng, have a nice day");
